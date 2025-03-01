@@ -19,5 +19,4 @@ func main() {
 	fmt.Printf("\nIgloo House Door Type: %s\n", iglooHouse.doorType)
 	fmt.Printf("Igloo House Window Type: %s\n", iglooHouse.windowType)
 	fmt.Printf("Igloo House Num Floor: %d\n", iglooHouse.floor)
-
 }
